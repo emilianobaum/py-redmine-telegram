@@ -1,0 +1,12 @@
+{
+    "telegram":{
+        "api_id":14667389,
+        "api_hash": "418666cb2461a08241d0080aa9b57e46",
+        "token": "5250509573:AAGqAfn6OMu7p2SnWCSzVGhaVHUvtDqVNCQ"
+    },
+    "redmine":{
+        "url":"10.0.100.24:3001",
+        "user":"admin",
+        "passwd":"c1lc5l1d4r1"
+    }
+}
