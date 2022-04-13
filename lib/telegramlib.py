@@ -4,5 +4,5 @@ from telegram import Bot
 import requests
 
 def main(message=None):
-    bot = Bot('5250509573:AAGqAfn6OMu7p2SnWCSzVGhaVHUvtDqVNCQ')
-    bot.send_message(chat_id=-1001562929409, text="{}".format(message))
+    bot = Bot('xxxxxx:xxxxxxxxxxxxxxxxxx')
+    bot.send_message(chat_id=-1111111111111111, text="{}".format(message))
